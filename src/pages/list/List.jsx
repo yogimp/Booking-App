@@ -1,8 +1,9 @@
+import Header from '../../components/header/Header'
 
 const List = () => {
     return (
         <div>
-            List
+            <Header type= "list" />
         </div>
     )
 }
